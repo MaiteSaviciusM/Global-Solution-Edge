@@ -77,7 +77,7 @@ Em seguida, determina o estado do estoque (cheio, intermediário ou vazio) de ac
 
 Configuração da Tago.io
 
-O código está configurado para se conectar ao Tago.io e enviar os dados de quantidade de medicamentos. Certifique-se de fornecer as credenciais corretas (SSID do WiFi, senha, token do dispositivo, etc.) no código para permitir a comunicação com seu servidor MQTT do Tago.io.
+O código está configurado para se conectar ao Tago.io e enviar os dados de quantidade de medicamentos. Certifique-se de fornecer as credenciais corretas (nome e token do dispositivo) no código para permitir a comunicação com seu servidor MQTT do Tago.io.
 
 *Links*
 
