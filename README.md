@@ -83,4 +83,4 @@ O código está configurado para se conectar ao Tago.io e enviar os dados de qua
 
 Wokwi: https://wokwi.com/projects/382230131121758209
 
-Vídeo Explicativo:
+Vídeo Explicativo: https://youtu.be/En4NYHMRRmQ
