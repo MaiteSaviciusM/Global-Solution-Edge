@@ -84,3 +84,7 @@ O código está configurado para se conectar ao Tago.io e enviar os dados de qua
 Wokwi: https://wokwi.com/projects/382230131121758209
 
 Vídeo Explicativo: https://youtu.be/En4NYHMRRmQ
+
+
+MAITÊ SAVICIUS RM98435
+MURILO OBINATA RM99855
